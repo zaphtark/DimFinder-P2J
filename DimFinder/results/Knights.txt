@@ -1,0 +1,91 @@
+Knights {'men': 100.0, 'women': 0.0}
+
+Lemme, Certitude, ID de ligne, genre
+τεκμηριον, ???, 29, man
+γεροντιον, ???, 33, man
+κοσκυλματιον, ???, 33, man
+οκταπλασιον, Diminutif confirmé, 33, man
+βουλευματιον, ???, 43, man
+λογιον, ???, 55, man
+λογειον, Faux positif possible, 58, man
+ποτηριον, Faux positif possible, 61, man
+ποτηριον, Faux positif possible, 62, man
+αυριον, ???, 89, man
+πρυτανειον, Faux positif possible, 93, man
+ταμποριον, ???, 97, man
+λογιον, ???, 109, man
+ποτηριον, Faux positif possible, 123, man
+παιον, Faux positif possible, 126, man
+μνημειον, Faux positif possible, 129, man
+θηριον, ???, 131, man
+πρυτανειον, Faux positif possible, 136, man
+τριπλασιον, Diminutif confirmé, 139, man
+Περγασασιον, Diminutif confirmé, 156, man
+δικιδιον, Diminutif confirmé, 172, man
+βουλευτηριον, Faux positif possible, 194, man
+παιδιον, Diminutif confirmé, 198, man
+οριον, ???, 205, man
+τερθριον, ???, 211, man
+αλιτηριον, Faux positif possible, 215, man
+αργυριον, ???, 229, man
+βουλευτηριον, Faux positif possible, 233, man
+πεδιον, Diminutif possible, 243, man
+ξυμποσιον, ???, 243, man
+πρυτανειον, Faux positif possible, 243, man
+Διον, Faux positif confirmé, 243, man
+πηδαλιον, Diminutif possible, 243, man
+ροθιον, ???, 243, man
+μειρακιον, Diminutif confirmé, 245, man
+τρυβλιον, Diminutif possible, 252, man
+αυριον, ???, 252, man
+βαλλαντιον, ???, 262, man
+πρυτανειον, Faux positif possible, 264, man
+τριπλασιον, Diminutif confirmé, 270, man
+Δημιδιον, Diminutif confirmé, 277, man
+νεανισκος, Diminutif confirmé, 279, man
+εργαστηριον, Faux positif possible, 287, man
+χωριον, ???, 290, man
+πρυτανειον, Faux positif possible, 294, man
+περικομματιον, ???, 295, man
+θωπευματιον, ???, 299, man
+γυπαριον, Diminutif confirmé, 302, man
+λογιον, ???, 303, man
+σειον, Faux positif possible, 313, man
+βλαυτιον, ???, 327, man
+σιλφιον, Diminutif possible, 330, man
+τρυβλιον, Diminutif possible, 338, man
+κυλιχνιον, ???, 339, man
+αντικνημιον, ???, 339, man
+ιστιον, ???, 344, man
+δακτυλιον, Diminutif confirmé, 349, man
+δακτυλιον, Diminutif confirmé, 351, man
+σημειον, Faux positif possible, 351, man
+σημειον, Faux positif possible, 352, man
+θριον, ???, 353, man
+θριον, ???, 355, man
+λογιον, ???, 375, man
+λογιον, ???, 388, man
+λογιον, ???, 391, man
+τουπτανιον, ???, 393, man
+λογιον, ???, 399, man
+βαλανειον, Faux positif possible, 407, man
+αλωπεκιον, ???, 417, man
+χωριον, ???, 417, man
+αλωπεκιον, ???, 418, man
+μαζισκα, Diminutif confirmé, 430, man
+μαζισκα, Diminutif confirmé, 453, man
+ποτνιον, ???, 455, man
+αργυριον, ???, 473, man
+τεκμηριον, ???, 484, man
+παππιδιον, Diminutif confirmé, 487, man
+τεκμηριον, ???, 498, man
+ωνιον, ???, 505, man
+νικητηριον, Faux positif possible, 507, man
+Πολυμνηστειον, Faux positif possible, 514, man
+ποτηριον, Faux positif possible, 514, man
+μαρτυριον, ???, 517, man
+δικαστηριον, Faux positif possible, 517, man
+σκιαδειον, Faux positif possible, 534, man
+μειρακιον, Diminutif confirmé, 547, man
+λουτριον, ???, 556, man
+πρυτανειον, Faux positif possible, 557, man

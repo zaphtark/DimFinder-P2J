@@ -1,0 +1,88 @@
+Plutus {'men': 85.04, 'women': 14.96}
+
+Lemme, Certitude, ID de ligne, genre
+τουναντιον, ???, 1, man
+μειρακιον, Diminutif confirmé, 45, man
+ταργυριον, ???, 74, man
+ταργυριον, ???, 83, man
+αργυριδιον, Diminutif confirmé, 86, man
+ταργυριον, ???, 88, man
+αργυριον, ???, 89, man
+αργυριον, ???, 92, man
+χρυσιον, ???, 95, man
+κρεαδιον, Diminutif possible, 148, man
+οικιον, ???, 149, man
+αργυριδιον, Diminutif confirmé, 150, man
+φορτιον, ???, 186, man
+αργυριον, ???, 188, man
+παιδιον, Diminutif confirmé, 208, man
+θαλαττιον, ???, 228, man
+θηριον, ???, 267, man
+αργυριον, ???, 305, man
+αργυριον, ???, 306, woman
+χρυσιον, ???, 310, woman
+ιματιον, ???, 310, woman
+βαλανειον, Faux positif possible, 311, man
+παιδαριον, Diminutif confirmé, 311, man
+ιματιον, ???, 311, man
+προσκεφαλαιον, Faux positif possible, 311, man
+Διονυσιον, ???, 314, woman
+βελτιον, ???, 333, man
+βαλανειον, Faux positif possible, 343, man
+γρηδιον, Diminutif possible, 366, man
+γραδιον, Diminutif confirmé, 368, man
+γελοιον, Faux positif confirmé, 370, man
+θυειδιον, Diminutif confirmé, 378, man
+κιβωτιον, ???, 378, man
+κιβωτιον, ???, 380, man
+τριβωνιον, ???, 382, man
+Σφηττιον, ???, 382, man
+ισχαδιον, Diminutif possible, 398, man
+αργυριον, ???, 400, man
+σκευαριον, Diminutif confirmé, 400, man
+ελαιον, Faux positif possible, 400, man
+λοπαδιον, Diminutif possible, 400, man
+πινακισκος, Diminutif confirmé, 400, man
+σκοροδιον, Diminutif possible, 400, man
+παιδαριον, Diminutif confirmé, 401, man
+σκευαριον, Diminutif confirmé, 413, man
+τριβωνιον, ???, 416, man
+παιδαριον, Diminutif confirmé, 416, man
+εμβαδιον, Diminutif possible, 420, man
+θοιματιον, ???, 439, man
+τριβωνιον, ???, 439, man
+δακτυλιον, Diminutif confirmé, 440, man
+τριβωνιον, ???, 448, man
+σιλφιον, Diminutif possible, 475, man
+θοιματιον, ???, 476, man
+ταλλοτριον, ???, 483, man
+τριβωνιον, ???, 489, man
+ιματιον, ???, 491, man
+εμβαδιον, Diminutif possible, 492, man
+μειρακισκη, Diminutif confirmé, 498, man
+μειρακιον, Diminutif confirmé, 507, woman
+αργυριον, ???, 509, woman
+ιματιον, ???, 509, woman
+χιτωνιον, ???, 509, woman
+ιματιδιον, Diminutif confirmé, 509, woman
+ιματιον, ???, 511, woman
+νητταριον, Diminutif confirmé, 521, woman
+μυστηριον, Faux positif possible, 523, woman
+νεανισκος, Diminutif confirmé, 523, woman
+ταφοδιον, Diminutif possible, 530, man
+δακτυλιον, Diminutif confirmé, 539, woman
+μειρακιον, Diminutif confirmé, 541, woman
+τουναντιον, ???, 549, man
+ψιμυθιον, ???, 563, man
+νεανισκος, Diminutif confirmé, 567, man
+γραδιον, Diminutif confirmé, 587, man
+μειρακιον, Diminutif confirmé, 587, man
+παιδιον, Diminutif confirmé, 591, man
+τρυβλιον, Diminutif possible, 593, man
+ιερειον, Faux positif possible, 595, man
+σκευαριον, Diminutif confirmé, 613, man
+βελτιον, ???, 619, man
+ηγεμονιον, ???, 629, man
+βιοτιον, ???, 632, man
+ιερειον, Faux positif possible, 641, man
+νεανισκος, Diminutif confirmé, 652, man

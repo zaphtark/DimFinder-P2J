@@ -1,0 +1,90 @@
+Clouds {'men': 88.22, 'women': 0.0}
+
+Lemme, Certitude, ID de ligne, genre
+γραμματειον, Faux positif possible, 1, man
+πολεμιστηριον, Faux positif possible, 4, man
+εριον, ???, 11, man
+θοιματιον, ???, 11, man
+ελαιον, Faux positif possible, 12, man
+παχειον, Faux positif possible, 15, man
+Φειδιππιδιον, Diminutif confirmé, 15, man
+Διον, Faux positif confirmé, 26, man
+τωκιδιον, Diminutif confirmé, 27, man
+φροντιστηριον, Faux positif possible, 29, man
+αργυριον, ???, 29, man
+Διον, Faux positif confirmé, 34, man
+φροντιστηριον, Faux positif possible, 41, man
+παιδιον, Diminutif confirmé, 41, man
+φροντιστηριον, Faux positif possible, 47, man
+μυστηριον, Faux positif possible, 48, man
+χωριον, ???, 50, man
+τουρροπυγιον, ???, 54, man
+θοιματιον, ???, 64, man
+φροντιστηριον, Faux positif possible, 65, man
+θηριον, ???, 65, man
+πραγματιον, ???, 73, man
+χωριον, ???, 86, man
+Σωκρατιδιον, Diminutif confirmé, 99, man
+Σωκρατιδιον, Diminutif confirmé, 105, man
+Βυζαντιον, ???, 111, man
+χιον, ???, 126, man
+ομβριον, ???, 127, man
+κυκλιον, Diminutif possible, 145, man
+εριον, ???, 150, man
+σημειον, Faux positif possible, 167, man
+ζωμιδιον, Diminutif confirmé, 178, man
+γαστριδιον, Diminutif confirmé, 179, man
+Σουνιον, ???, 181, man
+γυμνασιον, Diminutif confirmé, 185, man
+σταδιον, Diminutif possible, 190, man
+θοιματιον, ???, 213, man
+Διον, Faux positif confirmé, 227, man
+κωμοδιον, Diminutif possible, 227, man
+ορκιον, ???, 227, man
+παιδιον, Diminutif confirmé, 227, man
+δειλαιον, Faux positif possible, 227, man
+βελτιον, ???, 229, man
+βελτιον, ???, 229, man
+Δηλιον, Diminutif possible, 230, man
+Διον, Faux positif confirmé, 230, man
+ενοπλιον, Diminutif possible, 244, man
+δειλαιον, Faux positif possible, 291, man
+Σωκρατιδιον, Diminutif confirmé, 315, man
+ταγυριον, ???, 325, man
+γεροντιον, ???, 348, man
+παιδαριον, Diminutif confirmé, 359, man
+θοιματιον, ???, 382, man
+ηλιθιον, ???, 391, man
+αναπειστηριον, Faux positif possible, 391, man
+παιδαριον, Diminutif confirmé, 392, man
+σιδιον, Diminutif confirmé, 392, man
+μειρακιον, Diminutif confirmé, 426, unsure
+πηριδιον, Diminutif confirmé, 428, unsure
+μειρακιον, Diminutif confirmé, 432, unsure
+αιδοιον, Faux positif possible, 444, unsure
+κεφαλαιον, Faux positif possible, 444, unsure
+ιματιον, ???, 446, unsure
+μειρακιον, Diminutif confirmé, 446, unsure
+μειρακιον, Diminutif confirmé, 447, unsure
+γυμνασιον, Diminutif confirmé, 448, unsure
+πραγματειον, Faux positif possible, 448, unsure
+νεανισκος, Diminutif confirmé, 457, unsure
+μειρακιον, Diminutif confirmé, 462, unsure
+θοιματιον, ???, 479, unsure
+χωριον, ???, 485, man
+μετριον, ???, 486, man
+φροντιστηριον, Faux positif possible, 486, man
+τουπιχωριον, ???, 498, man
+μουγκωμιον, ???, 516, man
+ταργυριον, ???, 542, man
+ταργυριον, ???, 544, man
+ταργυριον, ???, 565, man
+ταργυριον, ???, 568, man
+ταργυριον, ???, 569, man
+θηριον, ???, 570, man
+ταργυριον, ???, 571, man
+ταργυριον, ???, 574, man
+πατραλοιον, Faux positif possible, 585, man
+φροντιστηριον, Faux positif possible, 647, man
+θοιματιον, ???, 653, man
+παιον, Faux positif possible, 661, man

@@ -1,0 +1,96 @@
+Wasps {'men': 97.39, 'women': 0.93}
+
+Lemme, Certitude, ID de ligne, genre
+Σαβαζιον, ???, 8, man
+ενυπνιον, ???, 14, man
+τριβωνιον, ???, 19, man
+πανδοκευτριον, ???, 19, man
+τουνυπνιον, ???, 22, man
+πλησιον, ???, 25, man
+λογιδιον, Diminutif confirmé, 32, man
+πλησιον, ???, 38, man
+τριβωνιον, ???, 38, man
+ρακιον, Diminutif confirmé, 38, man
+τηλιον, Diminutif possible, 49, man
+πινακιον, Diminutif confirmé, 60, man
+κανθηλιον, Diminutif possible, 62, man
+πωλιον, Diminutif possible, 74, man
+υπογαστριον, ???, 79, man
+βωλιον, Diminutif possible, 83, man
+Βυζαντιον, ???, 94, man
+τουλαιον, Faux positif possible, 98, man
+παιδιον, Diminutif confirmé, 104, man
+μισθαριον, Diminutif confirmé, 108, man
+δικαστηριον, Faux positif possible, 109, unsure
+θυλακιον, Diminutif confirmé, 113, unsure
+καδισκος, Diminutif confirmé, 114, man
+οβελισκος, Diminutif confirmé, 124, man
+οβελισκος, Diminutif confirmé, 126, man
+μελιττιον, ???, 127, man
+καλωδιον, Diminutif possible, 132, man
+εισκα, Diminutif confirmé, 133, man
+θαιματιον, ???, 146, man
+θριον, ???, 157, man
+θηριον, ???, 161, man
+παιον, Faux positif possible, 163, man
+παιον, Faux positif possible, 165, man
+πλησιον, ???, 175, man
+γητειον, Faux positif possible, 175, man
+δικιδιον, Diminutif confirmé, 178, man
+γυμνασιον, Diminutif confirmé, 189, man
+γελοιον, Faux positif confirmé, 198, man
+παιδαριον, Diminutif confirmé, 198, man
+αιδοιον, Faux positif possible, 200, man
+σημειον, Faux positif possible, 200, man
+ταργυριον, ???, 204, man
+στρατιον, ???, 204, man
+παππιδιον, Diminutif confirmé, 215, man
+κηθαριον, Diminutif confirmé, 219, man
+προσκεφαλαιον, Faux positif possible, 219, man
+μειρακιον, Diminutif confirmé, 221, man
+σημειον, Faux positif possible, 221, man
+πριον, ???, 221, man
+ελαιον, Faux positif possible, 223, man
+ραδιον, Diminutif possible, 223, man
+ξενιον, ???, 225, man
+δικαστηριδιον, Diminutif confirmé, 253, man
+Εκαταιον, Faux positif possible, 253, man
+χοιροκομειον, Faux positif possible, 281, man
+χωριον, ???, 285, man
+καδισκος, Diminutif confirmé, 289, man
+καδισκος, Diminutif confirmé, 291, man
+θυμιδιον, Diminutif confirmé, 300, man
+εισκα, Diminutif confirmé, 325, man
+τρυβλιον, Diminutif possible, 325, man
+δαιμονιον, ???, 335, man
+παιδιον, Diminutif confirmé, 339, man
+βελτιον, ???, 345, man
+ξυμποσιον, ???, 359, man
+Διον, Faux positif confirmé, 362, man
+ιματιον, ???, 363, man
+τουρροπυγιον, ???, 365, man
+ωδειον, Faux positif possible, 367, man
+εριον, ???, 383, man
+παγκρατιον, ???, 415, man
+παγκρατιον, ???, 416, man
+κρεκακιον, Diminutif confirmé, 427, man
+ενυπνιον, ???, 428, man
+σκολιον, Diminutif possible, 438, man
+αργυριον, ???, 445, man
+γελοιον, Faux positif confirmé, 446, man
+συμποσιον, ???, 446, man
+σκωμματιον, ???, 452, man
+θριον, ???, 455, man
+σκευαριον, Diminutif confirmé, 455, man
+αυριον, ???, 457, man
+χρυσομηλολονθιον, ???, 458, man
+σχοινιον, ???, 458, man
+σχοινιον, ???, 458, man
+χοιριον, ???, 458, man
+μυστηριον, Faux positif possible, 458, man
+υπωπιον, ???, 474, man
+φορτιον, ???, 479, woman
+φορτιον, ???, 483, woman
+αργυριον, ???, 490, man
+Διον, Faux positif confirmé, 508, man
+Φρυνιχειον, Faux positif possible, 535, man

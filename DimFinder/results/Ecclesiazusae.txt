@@ -1,0 +1,76 @@
+Ecclesiazusae {'men': 54.56, 'women': 45.44}
+
+Lemme, Certitude, ID de ligne, genre
+σημειον, Faux positif possible, 1, woman
+δωματιον, ???, 1, woman
+πλησιον, ???, 1, woman
+πλησιον, ???, 1, woman
+θαιματιον, ???, 1, woman
+θοιματιον, ???, 4, woman
+θαιματιον, ???, 20, woman
+δημιον, ???, 23, woman
+παιδιον, Diminutif confirmé, 27, woman
+Φορμισιον, ???, 28, woman
+θαιματιον, ???, 28, woman
+νεανισκος, Diminutif confirmé, 32, woman
+γενειον, Faux positif possible, 34, woman
+Αγυρριον, ???, 66, woman
+αργυριον, ???, 66, woman
+τρυβλιον, Diminutif possible, 83, woman
+χιτωνιον, ???, 92, woman
+θαιματιον, ???, 92, woman
+αργυριον, ???, 97, woman
+ασκιδιον, Diminutif confirmé, 97, woman
+θοιματιον, ???, 98, man
+ιματιον, ???, 103, man
+θοιματιον, ???, 107, man
+Διον, Faux positif confirmé, 108, man
+θοιματιον, ???, 111, man
+Διον, Faux positif confirmé, 114, man
+χιτωνιον, ???, 117, man
+ορθριον, ???, 121, man
+ιματιον, ???, 131, man
+Διον, Faux positif confirmé, 132, man
+ιματιον, ???, 147, man
+εναντιον, ???, 147, man
+εναντιον, ???, 148, man
+δικαστηριον, Faux positif possible, 156, man
+βελτιον, ???, 168, man
+τειχιον, ???, 173, woman
+θοιματιον, ???, 174, woman
+ορθριον, ???, 187, man
+θοιματιον, ???, 187, man
+ιματιον, ???, 193, man
+θοιματιον, ???, 196, woman
+παιδιον, Diminutif confirmé, 198, woman
+πλησιον, ???, 215, woman
+ταργυριον, ???, 226, woman
+αργυριον, ???, 227, man
+στοιχειον, Faux positif possible, 258, woman
+ιματιον, ???, 259, man
+δικαστηριον, Faux positif possible, 278, woman
+παιδαριον, Diminutif confirmé, 280, woman
+κληρωτηριον, Faux positif possible, 281, man
+μειρακιον, Diminutif confirmé, 286, woman
+ξυσσιτιον, ???, 289, woman
+πλησιον, ???, 294, man
+κομμωτριον, ???, 296, man
+ορθριον, ???, 296, man
+πλησιον, ???, 296, man
+σκευαριον, Diminutif confirmé, 297, man
+τρυβλιον, Diminutif possible, 367, woman
+ψιμυθιον, ???, 391, woman
+μελυδριον, ???, 391, woman
+φιλοτταριον, Diminutif confirmé, 393, woman
+παιγνιον, ???, 398, woman
+ψιμυθιον, ???, 405, man
+γραδιον, Diminutif confirmé, 419, man
+γραδιον, Diminutif confirmé, 449, man
+γραδιον, Diminutif confirmé, 451, man
+ψιμυθιον, ???, 493, man
+τρισκα, Diminutif confirmé, 521, man
+θηριον, ???, 521, man
+αμφορειδιον, Diminutif confirmé, 522, woman
+μειρακιον, Diminutif confirmé, 531, man
+τελευταιον, Faux positif possible, 533, woman
+τρυβλιον, Diminutif possible, 537, woman

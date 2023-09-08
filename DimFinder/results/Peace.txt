@@ -1,0 +1,67 @@
+Peace {'men': 98.63, 'women': 0.0}
+
+Lemme, Certitude, ID de ligne, genre
+ριον, ???, 12, man
+σχοινιον, ???, 12, man
+παιδιον, Diminutif confirmé, 17, man
+αναρριον, ???, 17, man
+κλιμακιον, Diminutif confirmé, 19, man
+πωλιον, Diminutif possible, 19, man
+Διον, Faux positif confirmé, 33, man
+αργυριον, ???, 37, man
+σιτιον, ???, 45, man
+πηδαλιον, Diminutif possible, 47, man
+πλοιον, Faux positif possible, 47, man
+δειλακριον, ???, 66, man
+σκευαριον, Diminutif confirmé, 74, man
+σανιδιον, Diminutif confirmé, 74, man
+πολεμιστηριον, Faux positif possible, 89, man
+Διον, Faux positif confirmé, 108, man
+ποτνιον, ???, 113, man
+χωριον, ???, 122, man
+Φορμιον, ???, 147, man
+Λυκειον, Faux positif possible, 147, man
+χοιριδιον, Diminutif confirmé, 162, man
+χοιριδιον, Diminutif confirmé, 170, man
+σχοινιον, ???, 185, man
+Διον, Faux positif confirmé, 188, man
+βελτιον, ???, 191, man
+κυνιδιον, Diminutif confirmé, 217, man
+ποτνιον, ???, 240, man
+Διον, Faux positif confirmé, 242, man
+επυλλιον, Diminutif confirmé, 242, man
+ρηματιον, ???, 243, man
+δορατιον, ???, 253, man
+χωριον, ???, 255, man
+ταριχιον, ???, 255, man
+μετορχιον, ???, 257, man
+δαιμονιον, ???, 259, man
+αμπελιον, Diminutif possible, 259, man
+χρυσιον, ???, 267, man
+ποτνιον, ???, 270, man
+χωριον, ???, 280, man
+επιπιον, ???, 301, man
+ανθρωπισκος, Diminutif confirmé, 314, man
+ξυμποσιον, ???, 315, man
+δοιον, Faux positif possible, 337, man
+Ισθμιον, ???, 356, man
+οπτανιον, ???, 361, man
+αυριον, ???, 363, man
+παγκρατιον, ???, 363, man
+υηνιον, ???, 378, man
+χωριον, ???, 404, man
+πρυτανειον, Faux positif possible, 461, man
+παιον, Faux positif possible, 486, man
+κωδιον, Diminutif possible, 489, man
+Ελυμνιον, ???, 489, man
+χωριον, ???, 491, man
+χωριον, ???, 491, man
+αυριον, ???, 494, man
+δοιον, Faux positif possible, 506, man
+ταργυριον, ???, 519, man
+σπαρτιον, ???, 524, man
+παιδιον, Diminutif confirmé, 536, man
+τρισκα, Diminutif confirmé, 538, man
+Διον, Faux positif confirmé, 542, man
+παιδαριον, Diminutif confirmé, 550, man
+παιδιον, Diminutif confirmé, 554, man

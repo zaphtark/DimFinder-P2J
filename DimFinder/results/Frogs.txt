@@ -1,0 +1,92 @@
+Frogs {'men': 98.14, 'women': 1.86}
+
+Lemme, Certitude, ID de ligne, genre
+γελοιον, Faux positif confirmé, 5, man
+τρισκα, Diminutif confirmé, 13, man
+γελοιον, Faux positif confirmé, 13, man
+Διον, Faux positif confirmé, 14, man
+παιδιον, Diminutif confirmé, 26, man
+ωδελφιδιον, Diminutif confirmé, 54, man
+μειρακυλλιον, Diminutif confirmé, 78, man
+σταδιον, Diminutif possible, 78, man
+δωματιον, ???, 81, man
+θρανιον, ???, 93, man
+τριον, ???, 108, man
+πλοιαριον, Diminutif confirmé, 113, man
+ταργυριον, ???, 117, man
+μυστηριον, Faux positif possible, 122, man
+πλοιον, Faux positif possible, 141, man
+πλοιον, Faux positif possible, 144, man
+πεδιον, Diminutif possible, 147, man
+Νυσειον, Faux positif possible, 173, man
+Διον, Faux positif confirmé, 173, man
+υπολυριον, ???, 177, man
+ευηλιον, Diminutif possible, 181, man
+θηριον, ???, 202, man
+θηριον, ???, 210, man
+Διον, Faux positif confirmé, 224, man
+δωματιον, ???, 238, man
+ναιον, Faux positif possible, 249, man
+ποτνιον, ???, 250, man
+ελειον, Faux positif possible, 252, man
+φρουριον, ???, 253, man
+κυκλιον, Diminutif possible, 253, man
+πατριον, ???, 253, man
+οργιον, ???, 257, man
+γελοιον, Faux positif confirmé, 258, man
+μειρακισκη, Diminutif confirmé, 262, man
+ουπιχωριον, ???, 277, man
+ανδρειον, Faux positif possible, 295, man
+γελοιον, Faux positif confirmé, 316, man
+ταργυριον, ???, 326, woman
+φορτιον, ???, 335, woman
+παιδιον, Diminutif confirmé, 343, man
+ταλλοτριον, ???, 351, man
+γητειον, Faux positif possible, 356, man
+ταργυριον, ???, 357, man
+Διον, Faux positif confirmé, 362, man
+αηδονιον, ???, 406, man
+χρυσιον, ???, 409, man
+χαλκιον, ???, 409, man
+ομομαστιγιον, ???, 425, man
+πρυτανειον, Faux positif possible, 430, man
+πλαισιον, ???, 450, man
+παραξονιον, ???, 460, man
+επισκυνιον, Diminutif confirmé, 461, man
+βασανιστριον, ???, 462, man
+κεφαλαιον, Faux positif possible, 473, man
+μυστηριον, Faux positif possible, 482, man
+αστειον, Faux positif possible, 490, man
+σημειον, Faux positif possible, 506, man
+επυλλιον, Diminutif confirmé, 510, man
+βιβλιον, Diminutif possible, 510, man
+πλησιον, ???, 523, man
+εστιον, ???, 526, man
+παιδαριον, Diminutif confirmé, 551, man
+ιματιον, ???, 553, man
+εριον, ???, 558, man
+μειρακιον, Diminutif confirmé, 559, man
+βιβλιον, Diminutif possible, 564, man
+ιαμβειον, Faux positif possible, 574, man
+Εριουνιον, ???, 586, man
+Διον, Faux positif confirmé, 589, man
+ληκυθιον, ???, 616, man
+ληκυθιον, ???, 617, man
+κωδαριον, Diminutif confirmé, 618, man
+ιαμβειον, Faux positif possible, 618, man
+ληκυθιον, ???, 623, man
+ληκυθιον, ???, 624, man
+ληκυθιον, ???, 626, man
+ληκυθιον, ???, 629, man
+ληκυθιον, ???, 632, man
+ληκυθιον, ???, 636, man
+ληκυθιον, ???, 640, man
+ληκυθιον, ???, 641, man
+ληκυθιον, ???, 644, man
+ληκυθιον, ???, 646, man
+ληκυθιον, ???, 649, man
+μαντειον, Faux positif possible, 666, man
+ποντιον, ???, 670, man
+γελοιον, Faux positif confirmé, 715, man
+Διον, Faux positif confirmé, 743, man
+πατριον, ???, 752, man

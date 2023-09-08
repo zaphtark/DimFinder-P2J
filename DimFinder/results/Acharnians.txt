@@ -1,0 +1,92 @@
+Acharnians {'men': 98.57, 'women': 1.43}
+
+Lemme, Certitude, ID de ligne, genre
+ορθιον, ???, 1, man
+σχοινιον, ???, 1, man
+ελαιον, Faux positif possible, 1, man
+πεδιον, Diminutif possible, 21, man
+τριπλασιον, Diminutif confirmé, 31, man
+χρυσιον, ???, 41, man
+χρυσιον, ???, 41, man
+χρυσιον, ???, 45, man
+χρυσιον, ???, 46, man
+χρυσιον, ???, 47, man
+Σιβυρτιον, ???, 47, man
+πρυτανειον, Faux positif possible, 48, man
+παιδιον, Diminutif confirmé, 51, man
+Διον, Faux positif confirmé, 82, man
+Διον, Faux positif confirmé, 82, man
+φορτιον, ???, 85, man
+χωριον, ???, 87, man
+Διον, Faux positif confirmé, 93, man
+Διον, Faux positif confirmé, 93, man
+τρυβλιον, Diminutif possible, 94, man
+παιον, Faux positif possible, 95, man
+ταραξικαρδιον, Diminutif possible, 110, man
+παιδιον, Diminutif confirmé, 120, man
+σηπιον, ???, 131, man
+βουλευτηριον, Faux positif possible, 133, man
+επυλλιον, Diminutif confirmé, 140, man
+ρακιον, Diminutif confirmé, 151, man
+πιλιδιον, Diminutif confirmé, 164, man
+ρηματιον, ???, 166, man
+βακτηριον, Faux positif possible, 166, man
+σκευαριον, Diminutif confirmé, 168, man
+σπυριδιον, Diminutif confirmé, 168, man
+κοτυλισκιον, Diminutif confirmé, 174, man
+σφογγιον, ???, 176, man
+σπυριδιον, Diminutif confirmé, 178, man
+φιλτατιον, ???, 180, man
+αμπελιον, Diminutif possible, 184, man
+ανδραριον, Diminutif confirmé, 184, man
+χλανισκια, Diminutif confirmé, 184, man
+χοιριδιον, Diminutif confirmé, 184, man
+καπιχωριον, ???, 184, man
+σκολιον, Diminutif possible, 184, man
+κυνιδιον, Diminutif confirmé, 184, man
+παλλαδιον, Diminutif possible, 184, man
+σιτιον, ???, 184, man
+υπωπιον, ???, 184, man
+νεωριον, ???, 184, man
+πολεμιστηριον, Faux positif possible, 190, man
+νεανισκος, Diminutif confirmé, 223, man
+Κλεινιον, ???, 225, man
+χοιριον, ???, 229, man
+ρυγχιον, ???, 229, man
+χοιριον, ???, 229, man
+χοιριον, ???, 229, man
+χοιριον, ???, 257, man
+ομοματριον, ???, 267, man
+χοιριδιον, Diminutif confirmé, 284, man
+χοιριδιον, Diminutif confirmé, 290, man
+χοιριδιον, Diminutif confirmé, 301, man
+τανθιον, ???, 308, man
+ορναπετιον, ???, 331, man
+νεωριον, ???, 336, man
+νεωριον, ???, 337, man
+νεωριον, ???, 340, man
+αγγειον, Faux positif possible, 348, man
+φορτιον, ???, 355, man
+φορτιον, ???, 361, man
+γεροντιον, ???, 363, man
+μοσχιδιον, Diminutif confirmé, 363, man
+χωριον, ???, 363, man
+οβελισκος, Diminutif confirmé, 365, man
+τρισκα, Diminutif confirmé, 380, man
+γελοιον, Faux positif confirmé, 403, man
+Διον, Faux positif confirmé, 416, man
+προσκεφαλαιον, Faux positif possible, 416, man
+ιτριον, ???, 416, man
+θριον, ???, 423, man
+θριον, ???, 424, man
+λεκανιον, ???, 432, man
+χαλκιον, ???, 449, man
+πολεμιστηριον, Faux positif possible, 451, man
+θοιματιον, ???, 458, man
+χειμεριον, ???, 459, man
+παιδισκη, Diminutif confirmé, 461, man
+οθονιον, ???, 464, man
+λαμπαδιον, Diminutif possible, 464, man
+κυδωνιον, ???, 466, man
+Λαμαχιππιον, ???, 468, man
+Παιωνιον, ???, 476, man

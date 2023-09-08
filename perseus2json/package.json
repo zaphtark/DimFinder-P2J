@@ -1,0 +1,18 @@
+{
+  "name": "perseus2json",
+  "version": "1.0.0",
+  "description": "Create a json file out of a Perseus Digital Library XML file. ",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PerseusDL"
+  ],
+  "author": "Zaphtark",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "0.0.1-security"
+  }
+}

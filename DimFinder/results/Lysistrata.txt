@@ -1,0 +1,80 @@
+Lysistrata {'men': 38.45, 'women': 58.38}
+
+Lemme, Certitude, ID de ligne, genre
+Βακχειον, Faux positif possible, 1, woman
+παιδιον, Diminutif confirmé, 6, woman
+ορθοσταδιον, Diminutif possible, 22, woman
+κροκωτιδιον, Diminutif confirmé, 23, woman
+χιτωνιον, ???, 23, woman
+θουκαταιον, Faux positif possible, 36, woman
+ζωνιον, ???, 41, woman
+ιερειον, Faux positif possible, 47, unsure
+πεδιον, Diminutif possible, 50, woman
+παιδιον, Diminutif confirmé, 61, woman
+δωματιον, ???, 88, woman
+τωργυριον, ???, 95, unsure
+σταμνιον, ???, 108, woman
+σταμνιον, ???, 110, woman
+σφαγιον, ???, 113, woman
+τριβωνιον, ???, 154, man
+χωριον, ???, 156, man
+κανθηλιον, Diminutif possible, 156, man
+φορτιον, ???, 158, man
+χυτρειον, Faux positif possible, 160, woman
+ταργυριον, ???, 199, man
+καπηλειον, Faux positif possible, 199, man
+πλησιον, ???, 215, man
+θηριον, ???, 216, man
+ταργυριον, ???, 221, woman
+ταργυριον, ???, 222, man
+αργυριον, ???, 223, woman
+ταργυριον, ???, 226, man
+οριον, ???, 265, woman
+γελοιον, Faux positif confirmé, 272, woman
+εριον, ???, 278, man
+εριον, ???, 279, woman
+βαλανειον, Faux positif possible, 281, woman
+χωριον, ???, 289, woman
+Λειψυδριον, ???, 300, man
+ταυλιον, Diminutif confirmé, 313, woman
+χωριον, ???, 324, woman
+παιδιον, Diminutif confirmé, 330, woman
+χαλκιον, ???, 331, woman
+δαιμονιον, ???, 338, woman
+ναοιον, Faux positif possible, 342, woman
+νεανισκος, Diminutif confirmé, 345, man
+Φορμιον, ???, 350, man
+οργιον, ???, 359, woman
+ποτνιον, ???, 359, woman
+Παιον, Faux positif possible, 378, man
+σιτιον, ???, 386, man
+παιδιον, Diminutif confirmé, 394, man
+παιδιον, Diminutif confirmé, 396, man
+παιδιον, Diminutif confirmé, 398, man
+τεκνιδιον, Diminutif confirmé, 401, woman
+Μυρριον, ???, 414, man
+εναντιον, ???, 415, woman
+παιδιον, Diminutif confirmé, 416, man
+κλινιδιον, Diminutif confirmé, 423, woman
+προσκεφαλαιον, Faux positif possible, 433, woman
+στροφιον, Diminutif possible, 441, woman
+κυρσανιον, ???, 472, man
+θηριον, ???, 489, man
+θηριον, ???, 494, woman
+αργυριδιον, Diminutif confirmé, 502, man
+βαλλαντιον, ???, 502, man
+θαιματιον, ???, 513, man
+πλησιον, ???, 524, woman
+χωριον, ???, 539, woman
+λισσανιον, ???, 541, man
+παιδιον, Diminutif confirmé, 554, man
+πυριδιον, Diminutif confirmé, 554, man
+χωριον, ???, 555, man
+συμποσιον, ???, 558, man
+φυσατηριον, Faux positif possible, 561, man
+Αρταμιτιον, ???, 563, man
+Ιηιον, ???, 565, man
+Νυσιον, ???, 565, man
+σιον, ???, 567, man
+σιον, ???, 567, man
+σειον, Faux positif possible, 567, man

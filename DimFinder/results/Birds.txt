@@ -1,0 +1,111 @@
+Birds {'men': 75.8, 'women': 2.26}
+
+Lemme, Certitude, ID de ligne, genre
+αθλιον, Diminutif possible, 4, man
+σταδιον, Diminutif possible, 4, man
+θηριον, ???, 40, man
+τρυβλιον, Diminutif possible, 45, man
+θηριον, ???, 52, man
+θηριον, ???, 59, man
+γελοιον, Faux positif confirmé, 65, man
+καργυριον, ???, 83, man
+δειλακριον, ???, 94, unsure
+χρυσιον, ???, 99, man
+βαλλαντιον, ???, 100, unsure
+σισυμβριον, ???, 102, unsure
+Διον, Faux positif confirmé, 107, unsure
+Μηλιον, Diminutif possible, 120, man
+μηριον, ???, 122, man
+θειον, Faux positif possible, 129, unsure
+θειον, Faux positif possible, 129, unsure
+τουρνιθιον, ???, 130, man
+πελωριον, ???, 180, unsure
+πεδιον, Diminutif possible, 189, unsure
+αιθεριον, ???, 196, unsure
+τρυβλιον, Diminutif possible, 209, man
+παιον, Faux positif possible, 211, unsure
+θηριον, ???, 212, unsure
+τρυβλιον, Diminutif possible, 221, man
+πλησιον, ???, 239, unsure
+πινακιον, Diminutif confirmé, 248, man
+τεκμηριον, ???, 263, man
+ορθριον, ???, 265, man
+εριον, ???, 266, man
+παιδαριον, Diminutif confirmé, 266, man
+θοιματιον, ???, 266, man
+Διον, Faux positif confirmé, 270, man
+πεδιον, Diminutif possible, 271, man
+ελαιον, Faux positif possible, 278, man
+σιλφιον, Diminutif possible, 278, man
+κενεβρειον, Faux positif possible, 278, man
+Κεβριον, ???, 282, unsure
+ζευγαριον, Diminutif confirmé, 290, man
+παιδαριον, Diminutif confirmé, 304, unsure
+ραδιον, Diminutif possible, 315, man
+ριζιον, ???, 324, unsure
+αιθεριον, ???, 341, unsure
+υπηνεμιον, ???, 341, unsure
+νυχιον, ???, 341, unsure
+πηδαλιον, Diminutif possible, 342, unsure
+ληδαριον, Diminutif confirmé, 342, unsure
+νεοττιον, ???, 345, unsure
+αιθεριον, ???, 346, unsure
+θοιματιον, ???, 347, unsure
+σκαφιον, Diminutif confirmé, 351, man
+χωριον, ???, 360, unsure
+πεδιον, Diminutif possible, 364, man
+προσοδιον, Diminutif possible, 374, man
+Δηλιον, Diminutif possible, 378, man
+ιερειον, Faux positif possible, 385, man
+γενειον, Faux positif possible, 386, man
+ληδαριον, Diminutif confirmé, 393, man
+κυκλιον, Diminutif possible, 394, man
+παιδιον, Diminutif confirmé, 397, man
+Πινδαρειον, Faux positif possible, 400, man
+θειον, Faux positif possible, 412, man
+ιματιον, ???, 416, man
+βιβλιον, Diminutif possible, 418, man
+βιβλιον, Diminutif possible, 420, man
+βιβλιον, Diminutif possible, 422, man
+βιβλιον, Diminutif possible, 425, man
+βιβλιον, Diminutif possible, 427, man
+βιβλιον, Diminutif possible, 456, man
+βιβλιον, Diminutif possible, 465, man
+Ολοφυξιον, ???, 468, man
+Μουνιχιον, ???, 472, man
+Μηλιον, Diminutif possible, 481, unsure
+Στρουθιον, ???, 481, unsure
+θεσπεσιον, ???, 482, unsure
+παρθενιον, ???, 482, unsure
+βαλλαντιον, ???, 483, unsure
+αρχιδιον, Diminutif confirmé, 483, unsure
+μηνισκος, Diminutif confirmé, 483, unsure
+παιδιον, Diminutif confirmé, 499, man
+ναυπηγιον, ???, 501, man
+παιον, Faux positif possible, 511, man
+πεδαρσιον, ???, 513, unsure
+πλοιον, Faux positif possible, 516, man
+αιθεριον, ???, 555, man
+σκυταλιον, Diminutif possible, 555, man
+Οπουντιον, ???, 555, man
+ανδρειον, Faux positif possible, 574, man
+νεανισκος, Diminutif confirmé, 578, man
+Διον, Faux positif confirmé, 579, man
+φορτιον, ???, 582, man
+σκοτιον, ???, 589, man
+θοιματιον, ???, 605, man
+μειρακιον, Diminutif confirmé, 623, man
+σκιαδειον, Faux positif possible, 654, man
+μηριον, ???, 660, man
+ταμποριον, ???, 660, man
+νεωριον, ???, 668, man
+σκιαδειον, Faux positif possible, 674, man
+θοιματιον, ???, 677, man
+σιλφιον, Diminutif possible, 683, man
+σιλφιον, Diminutif possible, 685, man
+σιλφιον, Diminutif possible, 688, man
+ελαιον, Faux positif possible, 691, man
+ομβριον, ???, 693, man
+αργυριδιον, Diminutif confirmé, 704, man
+τρισμακαριον, Faux positif confirmé, 744, man
+γαμηλιον, Diminutif possible, 751, man

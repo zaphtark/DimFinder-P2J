@@ -1,0 +1,76 @@
+Thesmophoriazusae {'men': 73.88, 'women': 21.46}
+
+Lemme, Certitude, ID de ligne, genre
+ραδιον, Diminutif possible, 49, man
+δικαστηριον, Faux positif possible, 57, man
+δαιμονιον, ???, 83, man
+στροφιον, Diminutif possible, 84, man
+τιτθιον, ???, 84, man
+ανδρειον, Faux positif possible, 87, unsure
+νυκτερεισιον, ???, 113, unsure
+τρισκα, Diminutif confirmé, 117, man
+θοιματιον, ???, 121, man
+δελφακιον, Diminutif confirmé, 146, man
+ιματιον, ???, 155, man
+ποσθιον, ???, 159, man
+σημειον, Faux positif possible, 183, man
+θυγατριον, ???, 184, man
+ποντιον, ???, 186, woman
+παιδιον, Diminutif confirmé, 187, woman
+ελαιον, Faux positif possible, 193, woman
+κλιδιον, Diminutif confirmé, 193, woman
+δακτυλιον, Diminutif confirmé, 193, woman
+σφραγιδιον, Diminutif confirmé, 193, woman
+παιδαριον, Diminutif confirmé, 195, woman
+παιδιον, Diminutif confirmé, 197, man
+παιδιον, Diminutif confirmé, 197, man
+παιδιον, Diminutif confirmé, 197, man
+παιδιον, Diminutif confirmé, 197, man
+δουλαριον, Diminutif confirmé, 200, woman
+θυγατριον, ???, 215, man
+θοιματιον, ???, 220, woman
+παιδιον, Diminutif confirmé, 242, man
+συσκηνητριον, ???, 259, man
+σκαφιον, Diminutif confirmé, 267, man
+στροφιον, Diminutif possible, 272, man
+ιματιον, ???, 287, woman
+παιδιον, Diminutif confirmé, 291, woman
+τιωθιον, ???, 291, woman
+μηριον, ???, 292, man
+παιδιον, Diminutif confirmé, 297, woman
+παιδιον, Diminutif confirmé, 306, man
+σκευαριον, Diminutif confirmé, 306, man
+παιδιον, Diminutif confirmé, 313, woman
+Διον, Faux positif confirmé, 317, woman
+σφαγειον, Faux positif possible, 323, woman
+βελτιον, ???, 331, man
+γυναικειον, Faux positif possible, 333, woman
+σκιαδειον, Faux positif possible, 334, woman
+σκιαδειον, Faux positif possible, 334, woman
+σκαφιον, Diminutif confirmé, 335, woman
+πλησιον, ???, 335, woman
+μελανοσυρμαιον, Faux positif possible, 338, man
+τρισκα, Diminutif confirmé, 352, woman
+Θεσμοφορειον, Faux positif possible, 356, woman
+χρυσιον, ???, 364, woman
+Τυνδαρειον, Faux positif possible, 381, man
+αργυριον, ???, 389, man
+Βακχειον, Faux positif possible, 401, woman
+Διον, Faux positif confirmé, 402, woman
+Βρομιον, ???, 402, woman
+σημειον, Faux positif possible, 413, man
+γαμηλιον, Diminutif possible, 415, man
+χωριον, ???, 418, man
+πλησιον, ???, 457, man
+πλησιον, ???, 458, man
+γαμηλιον, Diminutif possible, 481, man
+ωλαφιον, Diminutif confirmé, 501, man
+θοιματιον, ???, 505, man
+τυγατριον, ???, 506, man
+θοιματιον, ???, 509, man
+ταργυριον, ???, 517, man
+γριδιον, Diminutif confirmé, 520, man
+παιδαριον, Diminutif confirmé, 523, man
+τυγατριον, ???, 527, man
+γριδιον, Diminutif confirmé, 527, man
+γριδιον, Diminutif confirmé, 527, man
